@@ -5,6 +5,11 @@ import org.junit.jupiter.api.Test;
 
 public class RadioTest {
     @Test
+    public void shouldStation() {
+        Radio radio = new Radio();
+
+    }
+    @Test
     public void shouldSetCurrentStation() {
         Radio radio = new Radio();
 
